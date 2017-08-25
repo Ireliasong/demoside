@@ -1,14 +1,2 @@
-Irelia add txt in 20170825.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Zong after stash edit Irelia’s txt.
-=======
-Zong is edit Irelia’s txt.
->>>>>>> Stashed changes
-=======
-Zong is edit Irelia’s txt.
->>>>>>> Stashed changes
-=======
-Zong is edit Irelia’s txt.
->>>>>>> Stashed changes
+Reset ireliaAdd0825.txt.
+另外我很緊張ＱＱ
